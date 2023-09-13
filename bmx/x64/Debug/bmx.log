@@ -1,0 +1,4 @@
+﻿  bmx.cpp
+D:\123\bmx\bmx\bmx.cpp(10,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\123\bmx\bmx\bmx.cpp(12,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  bmx.vcxproj -> D:\123\bmx\x64\Debug\bmx.exe
